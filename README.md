@@ -2,8 +2,22 @@
 ## CV
 ## Research Projects
 ### Project 1: Financial Networks, Systemic Networks, Interdependencies, and Couplings
-### Project 2: Banking Network
+#### Structural Risk Transmission In Financial Multilayer Networks
+#### Scaling Features
+#### Mapping Coupled Timeseries Onto Network
+#### Scaling Analysis
+#### Growth Dynamics
+
+### Project 2: Banking Networks
+#### Analysis of Global Banking Network by Random Matrix Theory
+## Selected Research 
 ## Research Interests
+Financial Networks
+
+Systemic Risk Networks
+
+Financial Data Science
+
 ## Contact
 ardalankia@vt.edu
 
